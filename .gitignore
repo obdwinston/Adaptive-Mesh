@@ -1,0 +1,18 @@
+# build artifacts
+build/
+*.o
+*.mod
+main
+
+# output
+archive/
+output/
+*.mp4
+*.png
+*.log
+
+# virtual environment
+.venv/
+
+# OS files
+.DS_Store
