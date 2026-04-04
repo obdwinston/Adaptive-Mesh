@@ -1,5 +1,7 @@
 https://github.com/user-attachments/assets/0295cd84-73db-4b39-a0c8-ca3a4ae2def3
 
+## Quickstart
+
 ```bash
 brew install gcc ffmpeg
 ```
@@ -12,9 +14,13 @@ git clone https://github.com/obdwinston/Adaptive-Mesh.git && cd Adaptive-Mesh &&
 make clean && make && make run && make animate
 ```
 
+## Verification
+
 <img width="1200" height="1200" alt="verification_interpolation" src="https://github.com/user-attachments/assets/1e1a6d68-14a6-4fff-8300-c7c298a2b77a" />
 
 <img width="1200" height="750" alt="verification_pressure" src="https://github.com/user-attachments/assets/b80a6578-99a1-4024-a27a-2a1f23911c9d" />
+
+## Appendix
 
 <img width="12900" height="9000" alt="refine" src="https://github.com/user-attachments/assets/fbc34fb2-83bd-4ff3-bd7c-66e9fd9aadc2" />
 
