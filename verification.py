@@ -21,7 +21,7 @@ R = 0.5
 U_INF = 1.0
 RE = 40.0
 N_SAMPLE = 37
-PROBE_OFFSET = 0.5
+PROBE_OFFSET = 0.0
 
 
 # === DATA LOADING ===
