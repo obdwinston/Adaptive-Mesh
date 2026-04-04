@@ -11,19 +11,13 @@ import glob
 import math
 import os
 import re
-import sys
 
 import matplotlib.animation as animation
 import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 import numpy as np
+import pyvista as pv
 from mpl_toolkits.axes_grid1 import make_axes_locatable
-
-try:
-    import pyvista as pv
-except ImportError:
-    print("pyvista not found. Install with: pip install pyvista")
-    sys.exit(1)
 
 
 # === CONSTANTS ===
